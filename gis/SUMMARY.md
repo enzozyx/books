@@ -2,6 +2,7 @@
 
 * [Introduction](README.md)
 * 超图培训
+    * [培训介绍](超图培训/培训介绍.md)
     * [环境安装](超图培训/环境安装.md)
     * [GIS基础](超图培训/GIS基础.md)
     * [WebGIS](超图培训/WebGIS.md)
