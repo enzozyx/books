@@ -23,7 +23,23 @@ cd /opt
 mv apache-activemq-5.14.0 activeMQ-5.14.0
 ll
 drwxr-xr-x. 10 root root 193 8月   2 2016 activeMQ-5.14.0
-# 配置系统环境变量
+```
+
+
+
+## 配置
+
+### 配置系统环境与开机启动及防火墙
+
+```shell
+
+```
+
+
+
+### 配置消息集群
+
+```shell
 
 ```
 
